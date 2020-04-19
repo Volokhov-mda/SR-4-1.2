@@ -1,22 +1,37 @@
-﻿<Properties StartupConfiguration="{422108AE-864B-45CF-A003-DCD2385DA8C4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Volokhov-SR-4-2/Program.cs">
+﻿<Properties StartupConfiguration="{7042551C-4072-430D-9739-35218073BEFA}|Default">
+  <MonoDevelop.Ide.ItemProperties.StudentsAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentGenerator/Program.cs">
     <Files>
-      <File FileName="Volokhov-SR-4-2/Program.cs" Line="1" Column="1" />
+      <File FileName="StudentsAnalyzer/Program.cs" Line="79" Column="26" />
+      <File FileName="StudentLibrary/Student.cs" />
+      <File FileName="StudentGenerator/Program.cs" Line="90" Column="1" />
+      <File FileName="Tests/StudentTest.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Volokhov-SR-4-2" expanded="True">
-            <Node name="Volokhov-SR-4-2" expanded="True">
+            <Node name="StudentGenerator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="StudentLibrary" expanded="True" />
+            <Node name="Tests" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Volokhov-SR-4-2" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Volokhov-SR-4-2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StudentGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Volokhov-SR-4-2/Volokhov-SR-4-2.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

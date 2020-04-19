@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentsAnalyzer/StudentsAnalyzer.csproj": {}
+  },
+  "projects": {
+    "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/StudentLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/StudentLibrary.csproj",
+        "projectName": "StudentLibrary",
+        "projectPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/StudentLibrary.csproj",
+        "packagesPath": "/Users/nikitavolohov/.nuget/packages/",
+        "outputPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitavolohov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentsAnalyzer/StudentsAnalyzer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentsAnalyzer/StudentsAnalyzer.csproj",
+        "projectName": "StudentsAnalyzer",
+        "projectPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentsAnalyzer/StudentsAnalyzer.csproj",
+        "packagesPath": "/Users/nikitavolohov/.nuget/packages/",
+        "outputPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentsAnalyzer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitavolohov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/StudentLibrary.csproj": {
+                "projectPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/StudentLibrary.csproj"
+              },
+              "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/Utils/Utils.csproj": {
+                "projectPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/Utils/Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/Utils/Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/Utils/Utils.csproj",
+        "projectName": "Utils",
+        "projectPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/Utils/Utils.csproj",
+        "packagesPath": "/Users/nikitavolohov/.nuget/packages/",
+        "outputPath": "/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/Utils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikitavolohov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
