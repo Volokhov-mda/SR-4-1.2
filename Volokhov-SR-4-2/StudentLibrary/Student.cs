@@ -60,9 +60,9 @@ namespace StudentLibrary
             // Создание нового имени студента. Первая половина самого длинного имени + вторая половина самого короткого имени.
             string newName = firstStudent.Name.Length > secondStudent.Name.Length ?
                                    firstStudent.Name.Substring(0, (int)Math.Ceiling(firstStudent.Name.Length / 2.0)) +
-                                                secondStudent.Name.Substring((int)Math.Ceiling(secondStudent.Name.Length / 2.0)) :
+                                                secondStudent.Name.Substring((int)Math.Floor(secondStudent.Name.Length / 2.0)) :
                                    secondStudent.Name.Substring(0, (int)Math.Ceiling(secondStudent.Name.Length / 2.0)) +
-                                                firstStudent.Name.Substring((int)Math.Ceiling(firstStudent.Name.Length / 2.0));
+                                                firstStudent.Name.Substring((int)Math.Floor(firstStudent.Name.Length / 2.0));
 
             // Возвращение нового объекта класса Student.
             return new Student(newName,
