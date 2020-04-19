@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{356A26B2-35C2-4629-832A-6FCB5232CC94}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Utils/utils.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentsAnalyzer/Program.cs">
     <Files>
-      <File FileName="StudentLibrary/Faculty.cs" Line="9" Column="6" />
-      <File FileName="StudentLibrary/Student.cs" Line="54" Column="86" />
-      <File FileName="StudentGenerator/Program.cs" Line="12" Column="48" />
-      <File FileName="Utils/utils.cs" Line="9" Column="52" />
+      <File FileName="StudentLibrary/Faculty.cs" Line="6" Column="9" />
+      <File FileName="StudentLibrary/Student.cs" Line="24" Column="1" />
+      <File FileName="Utils/utils.cs" />
+      <File FileName="StudentGenerator/Program.cs" />
+      <File FileName="StudentsAnalyzer/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,19 +13,18 @@
           <Node name="Volokhov-SR-4-2" expanded="True">
             <Node name="StudentGenerator" expanded="True" />
             <Node name="StudentLibrary" expanded="True" />
-            <Node name="Utils" expanded="True">
-              <Node name="utils.cs" selected="True" />
+            <Node name="StudentsAnalyzer" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Utils" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.StudentGenerator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Utils FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StudentGenerator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StudentLibrary FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

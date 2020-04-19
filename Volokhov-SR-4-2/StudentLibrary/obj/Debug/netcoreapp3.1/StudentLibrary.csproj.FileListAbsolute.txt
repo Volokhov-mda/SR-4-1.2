@@ -1,0 +1,9 @@
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/bin/Debug/netcoreapp3.1/StudentLibrary.deps.json
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/bin/Debug/netcoreapp3.1/StudentLibrary.dll
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/bin/Debug/netcoreapp3.1/StudentLibrary.pdb
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/Debug/netcoreapp3.1/StudentLibrary.csprojAssemblyReference.cache
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/Debug/netcoreapp3.1/StudentLibrary.csproj.CoreCompileInputs.cache
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/Debug/netcoreapp3.1/StudentLibrary.AssemblyInfoInputs.cache
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/Debug/netcoreapp3.1/StudentLibrary.AssemblyInfo.cs
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/Debug/netcoreapp3.1/StudentLibrary.dll
+/Users/nikitavolohov/Desktop/SR/Volokhov-SR-4-2/StudentLibrary/obj/Debug/netcoreapp3.1/StudentLibrary.pdb

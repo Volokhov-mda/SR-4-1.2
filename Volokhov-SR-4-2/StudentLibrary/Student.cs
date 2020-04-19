@@ -37,7 +37,7 @@ namespace StudentLibrary
         public Student(string name, Faculty faculty, double mark)
         {
             // Задание через свойства значений полям, выполняя проверку входных параметров.
-            Name = name.Length >= 6 && name.Length <= 10 ? name : throw new ArgumentException("Длина имени должна лежать в диапозоне [6; 10]");
+            Name = name.Length >= 6 && name.Length <= 10 ? name : throw new ArgumentException($"{name}: длина имени должна лежать в диапозоне [6; 10]");
             Faculty = faculty;
             Mark = mark >= 4 && mark < 10 ? mark : throw new ArgumentException("Значение оценки должно лежать в диапозоне [4; 10)");
         }
