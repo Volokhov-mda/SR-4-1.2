@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{4A24914F-3013-41E1-BE74-8C56F921899C}|Default">
+﻿<Properties StartupConfiguration="{8F6E301F-7096-4C4D-902A-21DB3672949D}|Модульные тесты">
   <MonoDevelop.Ide.ItemProperties.StudentsAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentGenerator/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/StudentTest.cs">
     <Files>
-      <File FileName="StudentsAnalyzer/Program.cs" Line="49" Column="69" />
+      <File FileName="StudentsAnalyzer/Program.cs" Line="45" Column="1" />
       <File FileName="StudentLibrary/Student.cs" Line="11" Column="25" />
-      <File FileName="StudentGenerator/Program.cs" Line="65" Column="1" />
+      <File FileName="StudentGenerator/Program.cs" Line="62" Column="18" />
+      <File FileName="Tests/StudentTest.cs" Line="27" Column="78" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Volokhov-SR-4-2" expanded="True">
-            <Node name="StudentGenerator" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="StudentGenerator" expanded="True" />
             <Node name="StudentLibrary" expanded="True" />
             <Node name="StudentsAnalyzer" expanded="True" />
+            <Node name="Tests" expanded="True" />
             <Node name="Utils" expanded="True" />
           </Node>
         </State>
@@ -22,6 +22,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.StudentGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>Volokhov-SR-4-2/Volokhov-SR-4-2.csproj</String>

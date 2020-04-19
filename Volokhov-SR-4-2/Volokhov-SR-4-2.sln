@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsAnalyzer", "Student
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGenerator", "StudentGenerator\StudentGenerator.csproj", "{E2D3B9A9-A923-4811-A051-DEE57C409849}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{8F6E301F-7096-4C4D-902A-21DB3672949D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{E2D3B9A9-A923-4811-A051-DEE57C409849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2D3B9A9-A923-4811-A051-DEE57C409849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2D3B9A9-A923-4811-A051-DEE57C409849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6E301F-7096-4C4D-902A-21DB3672949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6E301F-7096-4C4D-902A-21DB3672949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6E301F-7096-4C4D-902A-21DB3672949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6E301F-7096-4C4D-902A-21DB3672949D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
