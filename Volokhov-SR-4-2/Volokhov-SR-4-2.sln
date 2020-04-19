@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLibrary", "StudentLibrary\StudentLibrary.csproj", "{2AD35734-6DB6-489B-85A2-090CD28E7640}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGenerator", "StudentGenerator\StudentGenerator.csproj", "{356A26B2-35C2-4629-832A-6FCB5232CC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{26AA3B94-A42E-4F17-A04B-61D3D1930BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,13 @@ Global
 		{2AD35734-6DB6-489B-85A2-090CD28E7640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AD35734-6DB6-489B-85A2-090CD28E7640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AD35734-6DB6-489B-85A2-090CD28E7640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356A26B2-35C2-4629-832A-6FCB5232CC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356A26B2-35C2-4629-832A-6FCB5232CC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356A26B2-35C2-4629-832A-6FCB5232CC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356A26B2-35C2-4629-832A-6FCB5232CC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26AA3B94-A42E-4F17-A04B-61D3D1930BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AA3B94-A42E-4F17-A04B-61D3D1930BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AA3B94-A42E-4F17-A04B-61D3D1930BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AA3B94-A42E-4F17-A04B-61D3D1930BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

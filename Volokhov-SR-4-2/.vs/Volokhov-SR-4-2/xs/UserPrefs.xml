@@ -1,19 +1,27 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentLibrary/Student.cs">
+﻿<Properties StartupConfiguration="{356A26B2-35C2-4629-832A-6FCB5232CC94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Utils/utils.cs">
     <Files>
       <File FileName="StudentLibrary/Faculty.cs" Line="9" Column="6" />
       <File FileName="StudentLibrary/Student.cs" Line="54" Column="86" />
+      <File FileName="StudentGenerator/Program.cs" Line="12" Column="48" />
+      <File FileName="Utils/utils.cs" Line="9" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Volokhov-SR-4-2" expanded="True">
-            <Node name="StudentLibrary" expanded="True" selected="True" />
+            <Node name="StudentGenerator" expanded="True" />
+            <Node name="StudentLibrary" expanded="True" />
+            <Node name="Utils" expanded="True">
+              <Node name="utils.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentGenerator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Utils FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.StudentLibrary FirstBuild="True" />
