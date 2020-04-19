@@ -20,7 +20,7 @@ namespace StudentLibrary
         /// <summary>
         /// Факультет студента.
         /// </summary>
-        private Faculty Faculty { get => faculty; set => faculty = value; }
+        public Faculty Faculty { get => faculty; set => faculty = value; }
 
         private double mark;
         /// <summary>

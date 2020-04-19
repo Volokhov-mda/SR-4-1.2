@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{422108AE-864B-45CF-A003-DCD2385DA8C4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="StudentLibrary/Student.cs">
     <Files>
-      <File FileName="Volokhov-SR-4-2/Program.cs" Line="1" Column="1" />
-      <File FileName="StudentLibrary/Class1.cs" Line="1" Column="1" />
-      <File FileName="StudentLibrary/Faculty.cs" Line="9" Column="6" />
-      <File FileName="StudentLibrary/Student.cs" Line="2" Column="19" />
+      <File FileName="StudentsAnalyzer/Program.cs" Line="27" Column="14" />
+      <File FileName="StudentLibrary/Student.cs" Line="23" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,10 +17,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Volokhov-SR-4-2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Volokhov-SR-4-2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Utils/Utils.csproj</String>
+    <String>StudentGenerator/StudentGenerator.csproj</String>
+    <String>StudentsAnalyzer/StudentsAnalyzer.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StudentLibrary FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
