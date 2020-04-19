@@ -1,22 +1,27 @@
-﻿<Properties StartupConfiguration="{8F6E301F-7096-4C4D-902A-21DB3672949D}|Модульные тесты">
+﻿<Properties StartupConfiguration="{7042551C-4072-430D-9739-35218073BEFA}|Default">
   <MonoDevelop.Ide.ItemProperties.StudentsAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/StudentTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentGenerator/Program.cs">
     <Files>
-      <File FileName="StudentsAnalyzer/Program.cs" Line="45" Column="1" />
-      <File FileName="StudentLibrary/Student.cs" Line="11" Column="25" />
-      <File FileName="StudentGenerator/Program.cs" Line="62" Column="18" />
-      <File FileName="Tests/StudentTest.cs" Line="27" Column="78" />
+      <File FileName="StudentsAnalyzer/Program.cs" Line="79" Column="26" />
+      <File FileName="StudentLibrary/Student.cs" />
+      <File FileName="StudentGenerator/Program.cs" Line="90" Column="1" />
+      <File FileName="Tests/StudentTest.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Volokhov-SR-4-2" expanded="True">
-            <Node name="StudentGenerator" expanded="True" />
+            <Node name="StudentGenerator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="StudentLibrary" expanded="True" />
-            <Node name="StudentsAnalyzer" expanded="True" />
             <Node name="Tests" expanded="True" />
-            <Node name="Utils" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Volokhov-SR-4-2" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

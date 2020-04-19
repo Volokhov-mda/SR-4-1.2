@@ -72,10 +72,11 @@ namespace StudentsAnalyzer
             // Сортировка studentsGroupped по оценке по убыванию и вывод их в консоль.
 
             // Из задания непонятно, по Name сортировать по возрастанию или по убыванию, но по правилам русского языка
-            // должна иметься в виду сортировка по Name по убыванию. Также не сказано про необходимость вывода в консоль
-            // получившегося списка, так что я не стал этого делать.
-            List<Student> studentsGrouppedAndSorted = studentsGroupped.OrderByDescending(student => student.Mark).
-                                                                       ThenByDescending(student => student.Name).ToList();
+            // должна иметься в виду сортировка по Name по убыванию
+            Console.WriteLine();
+            studentsGroupped.OrderByDescending(student => student.Mark).
+                             ThenByDescending(student => student.Name).ToList().
+                             ForEach(student => Console.WriteLine(student));
         }
     }
 }
