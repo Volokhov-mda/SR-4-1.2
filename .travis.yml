@@ -1,0 +1,8 @@
+language: csharp
+mono: none
+sudo: false
+dotnet: 3.1
+dist: bionic
+
+script:
+- dotnet test Volokhov-SR-4-2/Tests/Tests.csproj
